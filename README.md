@@ -13,7 +13,7 @@
   
 |        Main         |
 :-------------------------:|
-<img src='https://github.com/Alikanan-a/Tea-Ecommerce-template/blob/main/images/ScreenShots/Screenshot%202024-03-16%20at%2016-14-47%20Teab.png' > | 
+<img src='images/Screenshot 2025-05-12 at 09-35-07 Furni Free Bootstrap 5 Template for Furniture and Interior Design Websites by Untree.co.png' > | 
 
 <br/>
 
